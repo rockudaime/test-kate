@@ -8,3 +8,5 @@ Bla bla
 
 
 Hello. I'm new comment from Kate!
+
+Now i'm adding the comment. Update your document!
